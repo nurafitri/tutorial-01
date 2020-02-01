@@ -1,2 +1,4 @@
 NPM : 1234567890 (Ganti dengan NPM Anda sendiri)
 Nama : Ganti Dengan Nama Sendiri
+Jurusan : Sistem Informasi
+Angkatan : 2018
